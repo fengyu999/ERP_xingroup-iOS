@@ -1,0 +1,99 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - CocoaAsyncSocket (7.4.3):
+    - CocoaAsyncSocket/All (= 7.4.3)
+  - CocoaAsyncSocket/All (7.4.3):
+    - CocoaAsyncSocket/GCD
+    - CocoaAsyncSocket/RunLoop
+  - CocoaAsyncSocket/GCD (7.4.3)
+  - CocoaAsyncSocket/RunLoop (7.4.3)
+  - EAIntroView (2.8.3):
+    - EARestrictedScrollView (~> 1.1.0)
+  - EARestrictedScrollView (1.1.0)
+  - FLEX (2.1.1)
+  - iOS-Echarts (1.1.7)
+  - IQKeyboardManager (3.3.7)
+  - iRate (1.11.4)
+  - JSONModel (1.2.0)
+  - MJRefresh (3.1.0)
+  - PureLayout (3.0.1)
+  - Reachability (3.2)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - Realm (1.0.0):
+    - Realm/Headers (= 1.0.0)
+  - Realm/Headers (1.0.0)
+  - RESideMenu (4.0.7)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+  - SVProgressHUD (2.0.3)
+  - UITableView+FDTemplateLayoutCell (1.5.beta)
+  - Underscore.m (0.2.1)
+  - WeiboSDK (3.1.3)
+
+DEPENDENCIES:
+  - AFNetworking
+  - CocoaAsyncSocket
+  - EAIntroView (~> 2.8.1)
+  - FLEX (~> 2.0)
+  - iOS-Echarts
+  - IQKeyboardManager
+  - iRate (~> 1.11.4)
+  - JSONModel
+  - MJRefresh
+  - PureLayout
+  - Reachability
+  - ReactiveCocoa
+  - Realm
+  - RESideMenu (~> 4.0.7)
+  - SDWebImage
+  - SVProgressHUD
+  - UITableView+FDTemplateLayoutCell (~> 1.5.beta)
+  - Underscore.m
+  - WeiboSDK
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  CocoaAsyncSocket: a18c75dca4b08723628a0bacca6e94803d90be91
+  EAIntroView: e948c83e642f30010d427e643c18a6f2b529afed
+  EARestrictedScrollView: b0c2a3f92fb2610bb44d71c5e4893777c89e45ef
+  FLEX: 27b768fcae23a313a1eb115076d429180ca9b472
+  iOS-Echarts: 898bb0352fcf4af48277027798a4abd6c69d3fa5
+  IQKeyboardManager: 249c3946acf61345c18b038eb50863fe2793e3a8
+  iRate: 599ed07c854e0695f3c605d1b2a64c67d912acb7
+  JSONModel: 12523685c4b623553ccf844bbbf7007624317b2c
+  MJRefresh: 743e6404967d1c2c688472ea3ecfde247d872db4
+  PureLayout: f35f5384c9c4e4479df041dbe33ad7577b71ddfb
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  Realm: e15cd8e7c11d3e576f628ba0b7cb855269b4991c
+  RESideMenu: f24c508404b49c667344c54aba7e590883533958
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+  SVProgressHUD: b0830714205bea1317ea1a2ebc71e5633af334d4
+  UITableView+FDTemplateLayoutCell: 02b508ab1cb4cea16a8c17ac83d2cd1fd72124f9
+  Underscore.m: b86ca364d60509a39eb9c7886443c063b793aaba
+  WeiboSDK: acb067053668102cf07d01aa7604350162c2e466
+
+PODFILE CHECKSUM: 83caa36c5116e4a616b003756eb1231cd0143f44
+
+COCOAPODS: 1.0.0
